@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Tizi42/Tizi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 Hi there 
+- 👩🏻‍💻 I just finished the core education at 42 Paris at the end of October 2022.
+- 🌟 I am actively looking for an internship as a software engineer.
+
+[![Languages](https://github-readme-stats.vercel.app/api?username=Tizi42&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/Tizi42)
+
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Tizi42&layout=compact&hide=roff,swift&langs_count=12&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/Tizi42)
