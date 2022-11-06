@@ -11,11 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👩🏻‍💻 I just finished the core education at 42 Paris at the end of October 2022.
+- 🌟 I am actively looking for an internship as a software engineer.
 -->
 
 ## 🌱 Hi there 
-- 👩🏻‍💻 I just finished the core education at 42 Paris at the end of October 2022.
-- 🌟 I am actively looking for an internship as a software engineer.
+- 🔭 I’m currently working on a project about cyber security in the field of the Web.
+- 👩🏻‍💻 I’m currently learning Amazon Web Services with AWS Cloud Quest.
 
 [![Languages](https://github-readme-stats.vercel.app/api?username=Tizi42&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/Tizi42)
 
